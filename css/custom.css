@@ -95,8 +95,8 @@ header .header-content .header-content-inner p {
 }
 
 .intro {
-	color: #fff;
-    background-color: yellowgreen;
+	color: rgb(245, 245, 245);
+    background-color: rgb(59, 59, 59);
     padding: 70px 0;
     text-align: center;
 }
@@ -145,15 +145,15 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background: url('../images/writing.jpg');
+	background: url('../images/dance.jpg');
 	}
 	
 .item-2 {
-	background: url('../images/concert.jpg');
+	background: url('../images/techno.jpg');
 	}
 	
 .item-3 {
-	background: url('../images/pencil_sharpener.jpg');
+	background: url('../images/liveability.jpg');
 	}
 		
 .item-1,
@@ -329,7 +329,7 @@ fieldset[disabled] .btn-default:active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
     border-color: #fff;
-    background-color: #fff;
+    background-color: #fff;s
 }
 
 .btn-default .badge {
@@ -338,9 +338,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: yellowgreen;
+    border-color: rgba(211, 10, 10, 0.89);
     color: #fff;
-    background-color: yellowgreen;
+    background-color: rgba(206, 15, 15, 0.904);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
